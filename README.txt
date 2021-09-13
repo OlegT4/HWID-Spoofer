@@ -5,7 +5,7 @@ You need to install NET RUNTIME 5.0 for Windows [Run desktop apps]:
 
 https://dotnet.microsoft.com/download/dotnet/5.0/runtime
 
-Decompress HWID-Spoofer-main folder from zip file on your Desktop
+Download HWID-Spoofer-main.zip and decompress HWID-Spoofer-main folder on your Desktop
 
 Executable path can be found here:
 
