@@ -1,0 +1,5 @@
+C:\Users\gary\Desktop\spoofing\WinFormsApp1\WinFormsApp1\bin\Release\net5.0-windows\publish\HWIDSpoofer.exe
+C:\Users\gary\Desktop\spoofing\WinFormsApp1\WinFormsApp1\bin\Release\net5.0-windows\publish\HWIDSpoofer.dll
+C:\Users\gary\Desktop\spoofing\WinFormsApp1\WinFormsApp1\bin\Release\net5.0-windows\publish\HWIDSpoofer.deps.json
+C:\Users\gary\Desktop\spoofing\WinFormsApp1\WinFormsApp1\bin\Release\net5.0-windows\publish\HWIDSpoofer.runtimeconfig.json
+C:\Users\gary\Desktop\spoofing\WinFormsApp1\WinFormsApp1\bin\Release\net5.0-windows\publish\HWIDSpoofer.pdb

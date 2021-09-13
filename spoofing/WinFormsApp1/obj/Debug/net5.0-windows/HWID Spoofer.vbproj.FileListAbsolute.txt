@@ -1,0 +1,18 @@
+C:\Users\gary\Desktop\HWID-Spoofer-main\spoofing\WinFormsApp1\bin\Debug\net5.0-windows\HWIDSpoofer.exe
+C:\Users\gary\Desktop\HWID-Spoofer-main\spoofing\WinFormsApp1\bin\Debug\net5.0-windows\HWIDSpoofer.deps.json
+C:\Users\gary\Desktop\HWID-Spoofer-main\spoofing\WinFormsApp1\bin\Debug\net5.0-windows\HWIDSpoofer.runtimeconfig.json
+C:\Users\gary\Desktop\HWID-Spoofer-main\spoofing\WinFormsApp1\bin\Debug\net5.0-windows\HWIDSpoofer.runtimeconfig.dev.json
+C:\Users\gary\Desktop\HWID-Spoofer-main\spoofing\WinFormsApp1\bin\Debug\net5.0-windows\HWIDSpoofer.dll
+C:\Users\gary\Desktop\HWID-Spoofer-main\spoofing\WinFormsApp1\bin\Debug\net5.0-windows\ref\HWIDSpoofer.dll
+C:\Users\gary\Desktop\HWID-Spoofer-main\spoofing\WinFormsApp1\bin\Debug\net5.0-windows\HWIDSpoofer.pdb
+C:\Users\gary\Desktop\HWID-Spoofer-main\spoofing\WinFormsApp1\obj\Debug\net5.0-windows\WinFormsApp1.Form1.resources
+C:\Users\gary\Desktop\HWID-Spoofer-main\spoofing\WinFormsApp1\obj\Debug\net5.0-windows\HWID Spoofer.vbproj.GenerateResource.cache
+C:\Users\gary\Desktop\HWID-Spoofer-main\spoofing\WinFormsApp1\obj\Debug\net5.0-windows\HWID Spoofer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gary\Desktop\HWID-Spoofer-main\spoofing\WinFormsApp1\obj\Debug\net5.0-windows\HWID Spoofer.AssemblyInfoInputs.cache
+C:\Users\gary\Desktop\HWID-Spoofer-main\spoofing\WinFormsApp1\obj\Debug\net5.0-windows\HWID Spoofer.AssemblyInfo.vb
+C:\Users\gary\Desktop\HWID-Spoofer-main\spoofing\WinFormsApp1\obj\Debug\net5.0-windows\HWID Spoofer.vbproj.CoreCompileInputs.cache
+C:\Users\gary\Desktop\HWID-Spoofer-main\spoofing\WinFormsApp1\obj\Debug\net5.0-windows\HWIDSpoofer.dll
+C:\Users\gary\Desktop\HWID-Spoofer-main\spoofing\WinFormsApp1\obj\Debug\net5.0-windows\ref\HWIDSpoofer.dll
+C:\Users\gary\Desktop\HWID-Spoofer-main\spoofing\WinFormsApp1\obj\Debug\net5.0-windows\HWIDSpoofer.pdb
+C:\Users\gary\Desktop\HWID-Spoofer-main\spoofing\WinFormsApp1\obj\Debug\net5.0-windows\HWID Spoofer.genruntimeconfig.cache
+C:\Users\gary\Desktop\HWID-Spoofer-main\spoofing\WinFormsApp1\obj\Debug\net5.0-windows\HWID Spoofer.vbproj.AssemblyReference.cache
