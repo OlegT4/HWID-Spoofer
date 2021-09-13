@@ -13,7 +13,9 @@ Executable path can be found here:
 HWID-Spoofer-main\spoofing\WinFormsApp1\bin\Debug\net5.0-windows\HWIDSpoofer.exe
 
 Execute HWIDSpoofer.exe as Administrator
+
 Press the button "Spoof Now!"
+
 Reboot computer
 
 Things Spoofed:
