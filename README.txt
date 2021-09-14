@@ -38,4 +38,7 @@ MAC Address Network Adapter
 
 Hard Disk VolumeID
 
+Please click my adfly link if you like the application: 
+
+http://fumacrom.com/28fRf
 
