@@ -37,3 +37,7 @@ Desktop Name
 MAC Address Network Adapter
 
 Hard Disk VolumeID
+
+---------------------------
+
+Please click my adfly link if you liked the application: http://q.gs/FPYbs
