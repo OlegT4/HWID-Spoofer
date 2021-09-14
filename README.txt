@@ -18,6 +18,10 @@ Press the button "Spoof Now!"
 
 Reboot computer
 
+Please click my adfly link if you like the application: 
+
+http://fumacrom.com/28fRf
+
 Things Spoofed:
 
 SQMClient
@@ -38,7 +42,7 @@ MAC Address Network Adapter
 
 Hard Disk VolumeID
 
+----------------------------
 Please click my adfly link if you like the application: 
 
 http://fumacrom.com/28fRf
-
