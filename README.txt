@@ -42,3 +42,4 @@ Hard Disk VolumeID
 
 Please click my adf.ly link if you liked the application: http://q.gs/FPYbs
 BTC Address: 37w1ruGW9Rv245RguEqbTvfF3J6dN8gkxz
+
