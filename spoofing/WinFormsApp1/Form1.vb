@@ -55,7 +55,7 @@ Public Class Form1
 
     End Function
 
-    Public Function getRandomWord() As String
+Public Function getRandomId() As String
 
         Dim objStreamReader As StreamReader
         Const FILENAME As String = "volumeids.txt"
@@ -146,7 +146,7 @@ Public Class Form1
             Dim proc As New System.Diagnostics.Process()
             proc.StartInfo.CreateNoWindow = True
             proc.StartInfo.FileName = "Volumeid.exe"
-            proc.StartInfo.Arguments = " C: " & getRandomWord()
+proc.StartInfo.Arguments = " C: " & getRandomId()
             proc.Start()
             proc.Close()
 
