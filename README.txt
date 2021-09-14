@@ -41,4 +41,3 @@ Hard Disk VolumeID
 ---------------------------
 
 Please click my adfly link if you liked the application: http://q.gs/FPYbs
-BTC Address: 3E7xaNtWgVL9p1zmSEteVXJn5wKUWCYTdB
